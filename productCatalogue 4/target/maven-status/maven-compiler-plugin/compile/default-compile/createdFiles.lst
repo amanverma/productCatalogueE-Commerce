@@ -1,0 +1,12 @@
+com/example/productCatalogue/controller/ProductController.class
+com/example/productCatalogue/model/CategoryGroup.class
+com/example/productCatalogue/model/PriceGroup.class
+com/example/productCatalogue/ProductCatalogueApplication.class
+com/example/productCatalogue/model/Color.class
+com/example/productCatalogue/model/Category.class
+com/example/productCatalogue/model/Product.class
+com/example/productCatalogue/ServletInitializer.class
+com/example/productCatalogue/repository/ProductRepository.class
+com/example/productCatalogue/model/ColorGroup.class
+com/example/productCatalogue/model/BrandGroup.class
+com/example/productCatalogue/model/Brand.class
